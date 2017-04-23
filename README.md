@@ -7,6 +7,9 @@ multi-layer recurrent neural network for Korean (maybe applied to other asian la
 There are a lot of toy example RNN for English, but there are few when we find a example using Korean language. 
 
 
+한글 자연어처리에 있어서 딥러닝을 하는 경우 가장 먼저 해보게 되는게 글자단위의 RNN 모델일텐데, 이에 해당하는 자료가 별로 없어서 많은 사람들이 시작부터 어려움을 겪는 것 같습니다. 이 코드가 한글 자연어처리의 연구의 시작에 도움이 되었으면 합니다. 마음껏 수정하시고, 사용하시고 많이 배포하세요. (MIT Liscense)
+
+
 Thanks to 
 
 Sherjil Ozair's [char-rnn](https://github.com/sherjilozair/char-rnn-tensorflow)
